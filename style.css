@@ -28,3 +28,12 @@ h4{
 p{
     font-weight: 600;
 }
+
+#first{
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+#third{
+    margin-bottom: 20px;
+}
