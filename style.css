@@ -13,3 +13,10 @@ body{
     margin: 30px;
     font-weight: bold;
 }
+
+h1{
+    color: #ffff;
+    margin-top: 60px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
