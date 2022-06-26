@@ -55,3 +55,8 @@ input{
     background-color: #025f70;
     transition: all 0.75s ease;
 }
+
+#enter:hover{
+    background-color: #02798f;
+    color: #ffcd5d;
+}
