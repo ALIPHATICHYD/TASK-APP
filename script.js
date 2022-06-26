@@ -4,5 +4,5 @@ border.innerHTML = '<span>Hello I work</span>'
 
 //js styling
 firstParagraph.style.background = 'black';
-firstParagraph.innerText = 'I can change you';
+//firstParagraph.innerText = 'I can change you';
 firstParagraph.style.padding = '5px';
