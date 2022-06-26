@@ -8,3 +8,4 @@ firstParagraph.style.background = 'black';
 firstParagraph.style.padding = '5px';
 firstParagraph.innerHTML = '<span style= color: yellow;>Task List</span>';
 
+const lists = document.querySelectorAll('ul')
