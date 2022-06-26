@@ -46,3 +46,12 @@ input{
     border: none;
 
 }
+
+#enter{
+    border: none;
+    padding:  5px 15px;
+    border-radius: 5px;
+    color: #04a1bf;
+    background-color: #025f70;
+    transition: all 0.75s ease;
+}
