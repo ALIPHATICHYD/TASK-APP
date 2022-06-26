@@ -37,3 +37,12 @@ p{
 #third{
     margin-bottom: 20px;
 }
+
+input{
+    border-radius: 5px;
+    min-width: 60%;
+    padding:  5px;
+    outline: none;
+    border: none;
+
+}
