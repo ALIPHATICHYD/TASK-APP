@@ -60,3 +60,8 @@ input{
     background-color: #02798f;
     color: #ffcd5d;
 }
+
+ul{
+    text-align: left;
+    margin-top: 20px;
+}
