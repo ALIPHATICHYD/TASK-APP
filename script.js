@@ -9,3 +9,12 @@ firstParagraph.style.padding = '5px';
 firstParagraph.innerHTML = '<span style= color: yellow;>Task List</span>';
 
 const lists = document.querySelectorAll('ul')
+
+
+const add = document.querySelector('#enter');
+
+add.addEventListener('click', function(e){
+    console.log(e);
+
+    e.preventDefault();
+})
