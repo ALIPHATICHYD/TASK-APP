@@ -1,2 +1,2 @@
 # TASK-APP
-<h1>Using DOM</h1>
+<h1>Using jQuery</h1>
